@@ -1,1 +1,1 @@
-# My_python_work
+This repo holds everything i worked on using python.
